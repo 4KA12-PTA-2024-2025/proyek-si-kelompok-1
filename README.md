@@ -1,7 +1,8 @@
-**Project Name : PEMBUATAN WEBSITE JUSFABEL ART CARPET**
+**Project Name : PEMBUATAN WEBSITE E-COMMERCE JUSFABEL ART CARPET**
 
 **Team 1 Members and Roles**
-Adelio Bifarrel - Project Manager  
+
+Adelio Bifarrel - Project Manager 
 Ratri Yulia A.T  - System Analyst & UI/UX Designer    
 Robertus Ega Kurniawan - Programmer (Front-End/Back-End)  
 Muhammad Radia Widiazto  - Tester (Quality Assurance)  
