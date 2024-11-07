@@ -3,18 +3,18 @@
 **Project Name : PEMBUATAN WEBSITE E-COMMERCE JUSFABEL ART CARPET**
 
 **Team 1 Members and Roles** 
-Adelio Bifarrel - Project Manager 
-Ratri Yulia A.T  - System Analyst & UI/UX Designer    
-Robertus Ega Kurniawan - Programmer (Front-End/Back-End)  
-Muhammad Radia Widiazto  - Tester (Quality Assurance)  
+- Adelio Bifarrel - Project Manager & programmer (front end)
+- Ratri Yulia A.T  - System Analyst & UI/UX Designer    
+- Robertus Ega Kurniawan - Programmer (Back-End)  
+- Muhammad Radia Widiazto  - Tester (Quality Assurance)  
 
 
-Proyek ini bertujuan untuk mengembangkan Sistem Manajemen Inventaris untuk laboratorium Universitas Gunadarma. Sistem ini memungkinkan staf untuk melacak, memantau, dan memperbarui item inventaris secara efisien. Fitur-fitur utama termasuk menambah, menghapus, dan memperbarui item, membuat laporan, dan antarmuka yang mudah digunakan.
+Proyek ini bertujuan untuk mengembangkan website ecommerce untuk PT JustFabel Art Carpet. Website ini memungkinkan pelanggan untuk membeli produk karpet secara online tanpa harus datang ke toko fisik
 
 **Technologies Used**
 Programming Language: PHP,JavaScript
-Framework: Laravel & React
-Database: SQL /SSMS/ 
+Framework: Bootstrap
+Database: SQL 
 
-Start : 18 October 2024
+Start : 11 October 2024
 
