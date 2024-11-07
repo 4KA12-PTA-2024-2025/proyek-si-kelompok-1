@@ -1,6 +1,8 @@
+**LINK GDRIVE PRESENTASI KELOMPOK 1:https://drive.google.com/file/d/1c2JfpGH46uq4zbube7aZMxayYWBYN2v9/view?usp=sharing**
+
 **Project Name : PEMBUATAN WEBSITE E-COMMERCE JUSFABEL ART CARPET**
 
-**Team 1 Members and Roles**
+**Team 1 Members and Roles** 
 Adelio Bifarrel - Project Manager 
 Ratri Yulia A.T  - System Analyst & UI/UX Designer    
 Robertus Ega Kurniawan - Programmer (Front-End/Back-End)  
