@@ -1,7 +1,5 @@
 **LINK GDRIVE PRESENTASI KELOMPOK 1:https://drive.google.com/file/d/1c2JfpGH46uq4zbube7aZMxayYWBYN2v9/view?usp=sharing**
 
-**LINK VIDEO PRESENTASI KELOMPOK 1 M9 :https://drive.google.com/file/d/1hZdY6YMEXev5HYIK68szapBDjHOVGT82/view?usp=sharing**
-
 **Project Name : PEMBUATAN WEBSITE E-COMMERCE JUSFABEL ART CARPET**
 
 **Team 1 Members and Roles** 
